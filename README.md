@@ -1,11 +1,6 @@
 # Number of Combinations
  Calculate the number of combinations of r items taken from a set of n. 
 
-
-# CS 271 Computer Architecture and Assembly Language Programming
-
-# Assignment # 6 Option B (Choose Option A or Option B)
-
 **Objectives:**
 1) Designing, implementing, and calling low-level I/O procedures
 2) Implementing recursion
