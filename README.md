@@ -71,9 +71,6 @@ Note: showResults accepts the values of n , r , answer , and result.
 8) The usual requirements regarding documentation, readability, user-friendliness, etc., apply.
 9) Submit your text code file (. asm ) to Canvas by the due date.
 ```
-## page 1 of 2
-
-
 **Example Program Operation (user input in** **_italics_** **):**
 Welcome to the Combinations Calculator
 Implemented by Author Name
@@ -119,6 +116,3 @@ OK ... goodbye.
 ```
 input, but you must validate / convert the string to numeric data.
 ```
-
-
-## page 2 of 2
